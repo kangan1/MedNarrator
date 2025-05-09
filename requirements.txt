@@ -10,3 +10,4 @@ Pillow
 langchain
 pinecone-client
 PyMuPDF
+https://huggingface.co/allenai/scispacy_models/resolve/main/en_core_sci_md-0.5.1.tar.gz
