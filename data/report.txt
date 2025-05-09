@@ -1,0 +1,35 @@
+Patient Name: Geeta Sharma
+Age: 35
+Gender: Female
+Date of Visit: 2025-01-12
+
+Chief Complaint:
+- Shortness of breath
+- Wheezing
+- Chest tightness
+
+History:
+Anita is a known asthmatic since childhood. Symptoms worsened due to recent exposure to dust and cold air.
+
+Clinical Findings:
+- RR: 28/min
+- SpO2: 91% on room air
+- Wheezing on auscultation
+- No signs of infection or fever
+
+Treatment Given:
+- Nebulization with salbutamol and ipratropium
+- IV corticosteroids
+- Oxygen therapy (2L/min via nasal cannula)
+
+Outcome:
+- Symptoms improved after 2 hours of management
+- Advised continuation of inhaled corticosteroids and rescue inhaler
+
+Discharge Advice:
+- Avoid known allergens
+- Use salbutamol inhaler as needed
+- Follow up with Pulmonologist in 1 week
+
+Final Diagnosis:
+- Acute exacerbation of bronchial asthma
