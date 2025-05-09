@@ -10,7 +10,7 @@ def extract_text_from_pdf(pdf_path):
     return text
 
 # Folder containing your PDFs
-folder_path = "E:/practice/Med/data/raw_docs"
+folder_path = "MedNarrator/data/raw_docs"
 
 # Loop through all PDF files in the folder
 for filename in os.listdir(folder_path):
